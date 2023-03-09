@@ -1,4 +1,4 @@
-# testproject
+# Catalog App
 
 A new Flutter project.
 
